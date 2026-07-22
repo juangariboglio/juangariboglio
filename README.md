@@ -23,5 +23,4 @@ Estudiante y apasionado por el desarrollo de software, la ciencia de datos y el 
 
 ### 📫 Contacto y Redes
 
-- **GitHub:** [juangariboglio](https://github.com/juangariboglio)
 - **Gmail:** junse269@gmail.com
