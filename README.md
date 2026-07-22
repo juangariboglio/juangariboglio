@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! Soy Juan 🚀
 
-<!--
-**juangariboglio/juangariboglio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante y apasionado por el desarrollo de software, la ciencia de datos y el análisis predictivo. Me enfoco en resolver problemas complejos mediante código limpio, análisis estructurado de datos y arquitecturas eficientes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+
+- **Lenguajes:** Python, Java, SQL
+- **Ciencia de Datos y Análisis:** Pandas, Seaborn, Matplotlib, NumPy
+- **Desarrollo & Backend:** Spring Boot, REST APIs
+- **Control de Versiones & Herramientas:** Git, GitHub, VS Code
+
+---
+
+### 📌 Proyectos Destacados
+
+- 📊 **Análisis Predictivo de Datos para Servicios de Telecomunicaciones:** Proyecto enfocado en el procesamiento, análisis exploratorio y modelado de datos utilizando Python, Pandas y Seaborn.
+- ☕ **Foro RESTful API:** API desarrollada en Java y Spring Boot para la gestión integral de un foro interactivo.
+- 📚 **Analizador de Libros / Herramientas Backend:** Colección de aplicaciones y scripts orientados a la automatización y procesamiento de datos.
+
+---
+
+### 📫 Contacto y Redes
+
+- **GitHub:** [juangariboglio](https://github.com/juangariboglio)
+- **Gmail:** junse269@gmail.com
