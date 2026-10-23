@@ -6,9 +6,10 @@ Estudiante y apasionado por el desarrollo de software, la ciencia de datos y el 
 
 ### 🛠️ Tecnologías y Herramientas
 
-- **Lenguajes:** Python, Java, SQL
+- **Lenguajes:** Python, Java, SQL, React
 - **Ciencia de Datos y Análisis:** Pandas, Seaborn, Matplotlib, NumPy
 - **Desarrollo & Backend:** Spring Boot, REST APIs
+- **Frontend:** React 19 y React Router 7, Vite 8, CSS, node:test, Testing Library y jsdom
 - **Control de Versiones & Herramientas:** Git, GitHub, VS Code
 
 ---
